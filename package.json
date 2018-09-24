@@ -1,0 +1,17 @@
+{
+  "name": "animated-vertical-skillbar",
+  "version": "1.0.0",
+  "description": "skill representing vertical animated bars",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Mohiuddin akib",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.0"
+  }
+}
